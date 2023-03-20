@@ -1,3 +1,29 @@
+ observability-lab-grafana-otel-jaeger-prometheus
+
+# 🚀 Observability Lab | Grafana | Prometheus | Jaeger | Opentelemetry Collector 🚀
+
+https://github.com/coding-to-music/observability-lab-grafana-otel-jaeger-prometheus
+
+From / By https://github.com/srebrasil/observability_lab
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/observability-lab-grafana-otel-jaeger-prometheus.git
+git push -u origin main
+```
+
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/75628046/196457254-08f40047-2a69-49b6-bb61-a7203645c9a0.png) 
